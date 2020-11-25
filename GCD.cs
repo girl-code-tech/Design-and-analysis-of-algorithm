@@ -1,4 +1,14 @@
-﻿using System;
+\*In the variable-size-decrease variety of decrease-and-conquer, the size-reduction pattern
+varies from one iteration of an algorithm to another.
+Problem:
+Greatest common divisor of two nonnegative, not-both-zero integers m and n, denoted gcd(m,
+n), is defined as the largest integer that divides both m and n evenly, i.e., with a remainder of
+zero.*\
+
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
